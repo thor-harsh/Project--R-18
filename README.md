@@ -7,4 +7,4 @@
   You will be learning amazing stuff like how to create app in twitter along with how to connect to it using R then how to return tweets and much more..
 </table>
 
-**So what are you waiting for jump to the code to get started.As usual for any doubt or suggestion see you inside pull request section 😁😂. Thanks!**
+**So what are you waiting for jump to the code to get started. As usual for any doubt or suggestion see you inside pull request section 😁😂. Thanks!**
